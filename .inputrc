@@ -1,0 +1,4 @@
+TAB: menu-complete # メニューを使って補完する
+set completion-ignore-case on # 補完時に大文字小文字を無視
+set bell-style none # ベルを鳴らさない
+set visible-stats on # 候補リストのディレクトリや実行可能ファイルに印をつける
